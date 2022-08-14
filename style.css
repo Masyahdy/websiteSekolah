@@ -1,3 +1,4 @@
+/* Halaman utama */
 .jumbotron {
   padding-top: 5rem;
   background-image: url(img/bg2.jpg);
@@ -34,4 +35,10 @@
 
 section {
   padding-top: 4rem;
+}
+
+/* Halaman profil */
+
+#sekolah {
+  background-image: url(img/bg1.png);
 }
