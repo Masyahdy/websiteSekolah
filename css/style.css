@@ -1,7 +1,7 @@
 /* Halaman utama */
 .jumbotron {
   padding-top: 5rem;
-  background-image: url(img/bg2.jpg);
+  background-image: url(../img/bg2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 350px;
@@ -18,7 +18,7 @@
 }
 
 #profil {
-  background-image: url(img/bg1.png);
+  background-image: url(../img/bg1.png);
 }
 
 #program {
@@ -40,5 +40,5 @@ section {
 /* Halaman profil */
 
 #sekolah {
-  background-image: url(img/bg1.png);
+  background-image: url(../img/bg1.png);
 }
