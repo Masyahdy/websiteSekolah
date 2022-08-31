@@ -42,3 +42,11 @@ section {
 #sekolah {
   background-image: url(../img/bg1.png);
 }
+
+/* Halaman fasilitas */
+
+.fasilitas:hover {
+  cursor: pointer;
+  opacity: 0.3;
+  width: 300;
+}
